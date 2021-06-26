@@ -1,0 +1,34 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./gustavo-zambelli-83K2b2ezNAY-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(241, 12, 12);
+    font-size: 5rem;
+}
+.countdown-el{
+    display: inline-block;
+    margin: 0 100px;
+    text-align: center;
+}
+.countdown-container{
+    color: white;
+}
+.big-text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+.countdown-el span {
+    font-size: 1.3rem;
+}
+
